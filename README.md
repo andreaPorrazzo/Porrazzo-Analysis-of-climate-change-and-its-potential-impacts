@@ -1,8 +1,8 @@
 # Porrazzo-Analysis-of-climate-change-and-its-potential-impacts 
-#Project description
-We estimated and visualized the carbon footprint per country based on the data provided by World Bank in kaggle [kaggle](https://www.kaggle.com/datasets/theworldbank/world-bank-climate-change-data).
+# Project description
+We estimated and visualized the carbon footprint per country based on the data provided by World Bank in kaggle [kaggle](https://www.kaggle.com/datasets/theworldbank/world-bank-climate-change-data). 
 
-#Installation and startup notes and the prerequisites for operation
+# Installation and startup notes and the prerequisites for operation
 
 <ul>
   <li>programming language</li>
