@@ -14,6 +14,8 @@ Machine learning models and the large amount of data available can be very usefu
    <ul>
      <li> pandas </li>
     <li> numpy  </li>
+    <li>  seaborn </li>
+    <li>  matplotlib </li>
    </ul>
   <li>Presentation</li>
    <ul>
