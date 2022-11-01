@@ -6,14 +6,18 @@ Machine learning models and the large amount of data available can be very usefu
 # Installation and startup notes and the prerequisites for operation
 
 <ul>
-  <li>programming language</li>
+  <li>Programming language</li>
    <ul>
      <li> Python 3.7 </li>
    </ul>
   <li>Libraries</li> 
+   <ul>
+     <li> pandas </li>
+    <li> numpy  </li>
+   </ul>
   <li>Presentation</li>
    <ul>
-     <li>Jypiter Notebook</li>
-     <li> 
+     <li>Jupyter Notebook</li>
+    <li> Pdf report </li>
   </ul>
 </ul> 
